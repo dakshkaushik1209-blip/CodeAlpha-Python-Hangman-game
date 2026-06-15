@@ -19,11 +19,11 @@ A simple word guessing game built using python only.This game randomly selects a
 
 
 ## How to play 
-Run the program.
-Guess one letter at a time.
-Correct guesses reveal the letter's position.
-Wrong guesses reduce the remaining attempts.
-Guess the complete word before attempts reach zero.
+Run the program.  
+Guess one letter at a time.  
+Correct guesses reveal the letter's position.  
+Wrong guesses reduce the remaining attempts.  
+Guess the complete word before attempts reach zero.  
 Example  
 Word: _ _ _ _ _ _  
 Enter letter: p  
